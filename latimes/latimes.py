@@ -39,7 +39,7 @@ MESES = {
             "junio",
             "julio",
             "agosto",
-            "setiembre",
+            "septiembre",
             "octubre",
             "noviembre",
             "diciembre",
